@@ -18,9 +18,9 @@ As animações foram adicionadas dentro do <Style> do index.html.
 
 Quando passar o mouse sobre um projeto:
 
--O cartão sobe um pouquinho.
--A sombra fica mais evidente.
--O movimento acontece suavemente. 
+-O cartão sobe um pouquinho
+-A sombra fica mais evidente
+-O movimento acontece suavemente
 
 # Tecnologias usadas: 
 -HTML,CCS E JavaScript.
