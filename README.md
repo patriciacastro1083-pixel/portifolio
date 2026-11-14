@@ -16,7 +16,7 @@
 Animação ( hover e transições).
 As animações foram adicionadas dentro do <Style> do index.html.
 
-Quando passar o mouse sobre um projeto:
+#Quando passar o mouse sobre um projeto:
 
 -O cartão sobe um pouquinho
 -A sombra fica mais evidente
