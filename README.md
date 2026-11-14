@@ -2,8 +2,7 @@
 
 # Patricia Elen Castro Alves
 
-# O objetivo foi evoluir um site, tornando-o mais completo, personalizado 
-#e com novos recursos, aproximando-o de um projeto real de apresentação profissional.
+# O objetivo foi evoluir um site, tornando-o mais completo, personalizado e com novos recursos, aproximando-o de um projeto real de apresentação profissional.
 
 # o site apresenta:
 ° Seção de Perfil
